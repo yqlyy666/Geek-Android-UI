@@ -1,0 +1,13 @@
+{
+  "symbols": {
+    "native_probe": "0x140460a40",
+    "ui_cached_card_font": "0x14045cb60",
+    "ui_draw_card": "0x14045cb10",
+    "ui_fast_card_columns": "0x14045ce60",
+    "ui_pre_subclass": "0x14045c000",
+    "ui_restore_main": "0x140460750",
+    "ui_theme_auto": "0x140460730",
+    "ui_theme_dark": "0x140460710",
+    "ui_theme_light": "0x140460000"
+  }
+}
